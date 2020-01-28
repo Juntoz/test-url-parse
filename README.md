@@ -8,12 +8,12 @@ Small benchmark to tell which url parsing library is better.
 
 These are the results:
 
-`
+```
 urlparse x 56,192 ops/sec ±0.54% (92 runs sampled)
 Node#URL x 73,660 ops/sec ±1.13% (92 runs sampled)
 parseurl x 126,538 ops/sec ±0.29% (87 runs sampled)
 FastUrlParser x 374,365 ops/sec ±0.51% (91 runs sampled)
-`
+```
 **Fastest is FastUrlParser**
 
 The PC was:

@@ -17,8 +17,9 @@ FastUrlParser x 374,365 ops/sec ±0.51% (91 runs sampled)
 **Fastest is FastUrlParser**
 
 The PC was:
-Windows 10 Pro 64 bit
-Intel Core i5-4590 3.3Ghz
-8gb RAM
-NodeJs v10.16.3
+* Windows 10 Pro 64 bit
+* Intel Core i5-4590 3.3Ghz
+* 8gb RAM
+* NodeJs v10.16.3
+
 Test ran on 2020-01-28 with latest versions of all packages
